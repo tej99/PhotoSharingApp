@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9427521b01f9aafe76ee8db4871a952dd381e2fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tejas\.android\build-cache\d6e98951ff2357dfb3562ead1f36fc53d19a54a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24a1178eca96546c40aff24ef44cde05d6373ea1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tejas\.android\build-cache\698fa32f78da1e02c2b1599ce80951c7da44d16b\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_748e840d7a0643f09e3267ddb07b498f6fca21ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tejas\.android\build-cache\698fa32f78da1e02c2b1599ce80951c7da44d16b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3c017ca5deb4d404d1d6accd8c1cfc792085be7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tejas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1a43c32633bffca43c83f371025a876926af391a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tejas\.android\build-cache\83a40c636a0f2ccc2b7e82ec4297452891e35c8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e106c8be9c12de90b91466159329c4a8093964db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba1d93aa4bdd3f0d11aa2dea14443f6120d6f089">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c0f05c04b03f30bf962083e54d9bfb2f710e4df3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tejas\.android\build-cache\29a8751c12d8d8871caf7a2482e7c073879dc411\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f533e937d7ae1ccc8e3a7ec814ab7b73d97db2f\classes.dex" />
+    </item>
+
+</items>
