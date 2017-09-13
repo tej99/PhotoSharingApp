@@ -10,6 +10,7 @@
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -24,11 +25,19 @@ import com.parse.SignUpCallback;
 import com.parse.starter.R;
 
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener, View.OnKeyListener {
 
     Boolean signUpModeActive = true;
-
+    EditText passwordEditText;
     TextView changeSignupModeTextView;
+
+    @Override
+    public boolean onKey(View v, int keyCode, KeyEvent event) {
+        if(keyCode == KeyEvent.KEYCODE_ENTER && event.getAction() == KeyEvent.ACTION_DOWN){
+            signUp(v);
+        }
+        return false;
+    }
 
     @Override
     public void onClick(View view) {
@@ -58,8 +67,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void signUp(View view) {
 
         EditText usernameEditText = (EditText) findViewById(R.id.usernameEditText);
-
-        EditText passwordEditText = (EditText) findViewById(R.id.passwordEditText);
 
         if (usernameEditText.getText().toString().matches("") || passwordEditText.getText().toString().matches("")) {
 
@@ -125,8 +132,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
       changeSignupModeTextView.setOnClickListener(this);
 
+      passwordEditText = (EditText) findViewById(R.id.passwordEditText);
+
+      passwordEditText.setOnKeyListener(this);
+
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
-
 }
