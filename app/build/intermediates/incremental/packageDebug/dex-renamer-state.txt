@@ -1,7 +1,0 @@
-#Mon Sep 11 20:47:55 BST 2017
-base.0=C\:\\Users\\Tejas\\Desktop\\Projects\\PhotoSharingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c0f05c04b03f30bf962083e54d9bfb2f710e4df3
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Tejas\\Desktop\\Projects\\PhotoSharingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9427521b01f9aafe76ee8db4871a952dd381e2fc\\classes.dex
-base.1=C\:\\Users\\Tejas\\Desktop\\Projects\\PhotoSharingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9427521b01f9aafe76ee8db4871a952dd381e2fc
-file.0=C\:\\Users\\Tejas\\Desktop\\Projects\\PhotoSharingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c0f05c04b03f30bf962083e54d9bfb2f710e4df3\\classes.dex

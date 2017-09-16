@@ -1,4 +1,0 @@
-#Mon Sep 11 20:56:25 BST 2017
-base.0=C\:\\Users\\Tejas\\Desktop\\Projects\\PhotoSharingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
-renamed.0=classes.dex
-file.0=C\:\\Users\\Tejas\\Desktop\\Projects\\PhotoSharingApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex
