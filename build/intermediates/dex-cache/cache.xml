@@ -3,12 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Tejas\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c72b7d66667d57162fb3ce65b33690415ade23ab">
-        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6e6b11f40e8c27cd0ccad0cb89e845bc2fbc582b\classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_62c18d2fa5dc807761b7d07467491bbdf0d8eb7e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +18,24 @@
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4ae927770c5afacf671797212d890f186d396b61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tejas\.android\build-cache\15d4ba248934bcd392cbfd7be06f572985387221\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a558f327576d19041b40166a1d431d0cd02af53c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a3d77fe607db8a9f13d9490df9e11512678c2b8">
+        <dex dex="C:\Users\Tejas\Desktop\Projects\PhotoSharingApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6e6b11f40e8c27cd0ccad0cb89e845bc2fbc582b\classes.dex" />
     </item>
 
 </items>
