@@ -76,6 +76,11 @@ public class UserListActivity extends AppCompatActivity {
             }else{
                 getPhoto();
             }
+        } else if (item.getItemId() == R.id.logout){
+            ParseUser.logOut();
+
+            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+            startActivity(intent);
         }
 
         return super.onOptionsItemSelected(item);
@@ -127,6 +132,7 @@ public class UserListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_user_list);
 
+        setTitle("Users' Feed");
         final ArrayList<String> usernames = new ArrayList<>();
 
         final ListView userListView = (ListView) findViewById(R.id.userListView);
